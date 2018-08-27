@@ -86,4 +86,4 @@ print(artist)
 print(year)
 for song in tracks:
     track, title = song
-    print("\tTrack number {}, Ttitle: {}".format(track, title))
+    print("\tTrack number {}, Title: {}".format(track, title))
